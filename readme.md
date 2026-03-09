@@ -274,6 +274,31 @@ Possible enhancements include:
 * Packaging as a pip-installable toolkit
 
 ---
+## 🚀 Run the Project in GitHub Codespaces
+
+You can run this project directly in your browser without installing Python locally.
+
+### Steps
+
+1. Click the **Code** button on this repository.
+2. Select the **Codespaces** tab.
+3. Click **Create codespace on main**.
+4. Once the environment loads, open the terminal.
+5. Run the following command:
+
+```bash
+python Main.py
+```
+
+The **Multi-Utility Toolkit** will start in the terminal and you can interact with the menu.
+
+---
+
+## ▶️ Open Directly in GitHub Codespaces
+
+You can also launch the project instantly using the button below:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new)
 
 
 ---
